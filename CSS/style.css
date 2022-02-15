@@ -25,7 +25,7 @@ header{
     display: inline-block;
     padding: 5px;
     border: 1px;
-    border-radius: 10%;
+    border-radius: 10px;
 }
 
 .buttontask{
@@ -96,7 +96,7 @@ span{
 }
 
 nav, main{
-    padding-left: 30px;
+    padding-left: 5%;
     margin: auto;
     margin-bottom: 1px;
     background-color: white;
@@ -104,5 +104,11 @@ nav, main{
 }
 
 nav{
-    
+    padding: 10px 10px 10px 5%;
+    border-radius: 10px 10px 0 0;
+}
+
+main{
+    padding-bottom: 100px;
+    border-radius:  0 0 10px 10px;
 }
