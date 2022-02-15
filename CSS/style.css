@@ -10,7 +10,8 @@ body{
 
 h1{
     display: inline-block;
-    vertical-align: 50%;
+    vertical-align: 30%;
+    font-size: 40px;
 }
 
 header{
